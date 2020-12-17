@@ -17,14 +17,14 @@ OLED Power IC：ASM1117 3V3
 
 ### 引脚使用：
 
-OLED_CLK:   D15       SCL
-OLED_DIN:    D16       SDIN
-OLED_RES:   D10      RST
-OLED_DC:     D9         D/C
-OLED_CS:     D8         CS  (低电平有效)
+OLED_CLK:   D15       SCL  
+OLED_DIN:    D16       SDIN  
+OLED_RES:   D10      RST  
+OLED_DC:     D9         D/C  
+OLED_CS:     D8         CS  (低电平有效)  
 
-MLX90614_I2C_SDA： D2 
-MLX90614_I2C_SCL： D3 
+MLX90614_I2C_SDA： D2   
+MLX90614_I2C_SCL： D3   
 
 ## TODO:
 
